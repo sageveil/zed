@@ -1,6 +1,6 @@
 id = "sageveil"
 name = "Sageveil"
-version = "0.2.2"
+version = "0.2.4"
 schema_version = 1
 authors = ["sageveil"]
 description = "A minimalist low-contrast, green-tinted colorscheme."
